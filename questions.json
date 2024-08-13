@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Sarah takes an elevator ride to the top of a skyscraper. The elevator starts at ground level (0 metres). As it ascends, the elevator's position is represented by positive integers, and as it descends, the position is represented by negative integers. If the elevator moves up 15 floors and then descends 8 floors, on what floor is Sarah's final position relative to ground level?",
+    "options": [
+      "+7th floor",
+      "+15th floor",
+      "-7th floor",
+      "+8th floor"
+    ],
+    "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "In a football game, the quarterback throws a pass for a gain of 15 yards (+15). The team then loses 10 yards (-10) due to a penalty, gains 5 yards (+5) on the next play, and finally loses 8 yards (-8) on a sack. What is the net yardage gained or lost?",
+    "options": [
+      "Gained 2 yards (+2)",
+      "Gained 3 yards (+3)",
+      "Lost 2 yards (-2)",
+      "Lost 3 yards (-3)"
+    ],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "A store manager is tracking inventory changes over a month. If the store gains 75 units of a certain product and then loses 120 units, what integer represents the net change in inventory?",
+    "options": [
+      "+195",
+      "-45",
+      "+45",
+      "-195"
+    ],
+    "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "A hiker is exploring a trail with varying elevations. If they descend 150 metres below sea level and then ascend 320 metres to reach the trailhead, what integer represents their final elevation relative to sea level?",
+    "options": [
+      "+470 metres",
+      "-470 metres",
+      "+170 metres",
+      "-170 metres"
+    ],
+    "correct": 2,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "A bank account holder makes several transactions in a day. If they deposit $150 in the morning and then withdraw $200 in the afternoon, followed by another deposit of $100 in the evening, what integer represents the net change in their account balance for the day?",
+    "options": [
+      "+450 dollars",
+      "-250 dollars",
+      "-50 dollars",
+      "+50 dollars"
+    ],
+    "correct": 3,
+      "img": "./assests/images/5.jpg"
+  }
+]
